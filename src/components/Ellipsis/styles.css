@@ -1,0 +1,8 @@
+.ellipsis-general {
+    overflow: hidden;
+    display: -webkit-box;
+    -moz-box-orient: vertical;
+    -webkit-box-orient: vertical;
+    word-break: break-all;
+    word-wrap: break-word;
+}
